@@ -9,7 +9,7 @@
 I am a Computer Science student at Al Ain University with a passion for **Artificial Intelligence, Machine Learning, and Data Science**. I enjoy building end-to-end data pipelines and exploring the efficiency of transformer architectures.
 
 ###  About Me
--  **Education**: B.S. in Computer Science at Al Ain University (GPA: 3.9/4.0)
+-  **Education**: B.S. in Computer Science at Al Ain University (GPA: 3.92/4.0)
 -  **Interests**: AI Research, Vision Transformers (ViT), Predictive Analytics, and Web/App Development
 -  **Achievements**: 3x Honors List recipient; recognized for healthcare innovation using Arduino
 -  **Languages**: Arabic (Native), English (Fluent)
