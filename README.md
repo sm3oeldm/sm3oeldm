@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there, I'm Sameer Eldam! ??
 
-<!--
-**sm3oeldm/sm3oeldm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Science student at Al Ain University with a passion for **Artificial Intelligence, Machine Learning, and Data Science**. I enjoy building end-to-end data pipelines and exploring the efficiency of transformer architectures.
 
-Here are some ideas to get you started:
+### ?? About Me
+- ?? **Education**: B.S. in Computer Science at Al Ain University (GPA: 3.9/4.0).
+- ?? **Interests**: AI Research, Vision Transformers (ViT), Predictive Analytics, and Web/App Development.
+- ?? **Achievements**: 3x Honors List recipient; recognized for healthcare innovation using Arduino.
+- ?? **Languages**: Arabic (Native), English (Fluent).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ?? Technical Skills
+- **Programming**: Python, Java, JavaScript, SQL, HTML, CSS
+- **AI/ML**: TensorFlow, Scikit-Learn, NumPy, Pandas, Matplotlib, Seaborn
+- **DevOps & Tools**: Docker, Git, Streamlit, Twilio, Jupyter Notebooks
+
+---
+
+
+### ?? Work Experience
+- **AI Research Assistant** @ Al Ain University: Focused on Structured Transformers, Vision Transformer (ViT) architectures, and model compression techniques like token and attention head pruning.
+- **Early Technical Development** @ TDRA: Explored event handling, UI/UX design, and metaverse concepts.
+
+---
+
+### ?? Let's Connect!
+- ?? [LinkedIn](https://linkedin.com/in/sameer-eldam-9b90782bb)
+- ?? [sameer.eldamm06@gmail.com](mailto:sameer.eldamm06@gmail.com)
+- ?? Abu Dhabi, UAE
+
+---
