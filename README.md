@@ -31,6 +31,6 @@ I am a Computer Science student at Al Ain University with a passion for **Artifi
 
 ###  Let's Connect!
 -  [LinkedIn](https://linkedin.com/in/sameer-eldam-9b90782bb)
--  [sameer.eldamm06@gmail.com](mailto:sameer.eldamm06@gmail.com)
+-  [sm3oeldm@gmail.com](mailto:sameer.eldamm06@gmail.com)
 -  Abu Dhabi, UAE
 
