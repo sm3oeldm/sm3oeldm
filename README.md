@@ -19,7 +19,7 @@ I enjoy building end-to-end data pipelines and exploring the efficiency of trans
 
 ###  Technical Skills
 -  **Programming**: Python, Java, JavaScript, SQL, HTML, CSS
--  **AI/ML**: TensorFlow, Scikit-Learn, NumPy, Pandas, Matplotlib, Seaborn
+-  **AI/ML**: LLMs, RAG, Fine-Tuning, TensorFlow, Scikit-Learn, NumPy, Pandas, Matplotlib, Seaborn
 -  **DevOps & Tools**: Docker, Git, Streamlit, Twilio, Jupyter Notebooks
 
 ---
